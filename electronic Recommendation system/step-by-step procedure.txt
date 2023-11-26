@@ -1,0 +1,11 @@
+1) Download these files  A) Electronics_product_link.csv, B) Electronic shop web scrapping.ipynb and C) Recom System development.ipynb.
+
+2) place all these files in one single folder
+
+3) Electronics_product_link.csv  ---> this file contains all the products category (sensor, battery, light, etc.) and thire link.
+
+4) Electronic shop web scrapping.ipynb  -----> run this file than it will start web scrapping. collect all the data and save in df.
+
+5) Recom System development.ipynb  ------> this file contains data cleaning process, model building steps and model deployment using Gradio library.
+
+6) enjoy and Practice more 😊😊😉
