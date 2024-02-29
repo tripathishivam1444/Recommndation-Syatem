@@ -1,9 +1,8 @@
-import torch
+
 from sentence_transformers import SentenceTransformer, util
 from PIL import Image
 import glob
 import streamlit as st
-import pandas as pd
 import numpy as np
 import pickle
 
